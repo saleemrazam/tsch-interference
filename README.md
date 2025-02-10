@@ -26,11 +26,15 @@ This repository hosts the implementation and simulation framework for our IEEE G
 ---
 
 ## Repository Structure
-
+```bash
 ├── simulations/ # Cooja simulation files (.csc) and node configurations
+
 ├── tsch-modifications/ # Custom TSCH scheduler and collision detection modules
+
 ├── scripts/ # Python/MATLAB scripts for data analysis and plotting
+
 ├── results/ # Pre-computed results (PDR, latency, energy metrics)
+
 └── docs/ # Paper, presentation slides, and supplementary material
 
 ## Getting Started
@@ -54,13 +58,14 @@ This repository hosts the implementation and simulation framework for our IEEE G
 
 ## Citation
 **if this work aids your research, please cite:**
-@inproceedings{author2023tsch,  
-  title={Towards Co-Located TSCH Networks: An Inter-Network Interference Perspective},  
-  author={Your Name and Co-authors},  
-  booktitle={Proc. IEEE Global Commun. Conf. (GLOBECOM)},  
-  year={2023},  
-  doi={10.1109/GLOBECOM.2023.XXXXXXX}  
-}  
+@inproceedings{van2018towards,
+  title={Towards co-located TSCH networks: An inter-network interference perspective},
+  author={van Der Lee, Tim and Raza, Saleem and Exarchakos, George and Gunes, Mesut},
+  booktitle={2018 IEEE Global Communications Conference (GLOBECOM)},
+  pages={1--6},
+  year={2018},
+  organization={IEEE}
+}
 
 ## Contributions Welcome
 **Open to collaborations on:**
