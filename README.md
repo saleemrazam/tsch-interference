@@ -25,7 +25,7 @@ This repository hosts the implementation and simulation framework for our IEEE G
 
 ---
 
-## Repository Structure
+**Repository Structure** 
 ```bash
 ├── simulations/ # Cooja simulation files (.csc) and node configurations
 
