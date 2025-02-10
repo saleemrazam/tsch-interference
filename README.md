@@ -25,8 +25,8 @@ This repository hosts the implementation and simulation framework for our IEEE G
 
 ---
 
-**Repository Structure** 
-```bash
+## Repository Structure
+
 ├── simulations/ # Cooja simulation files (.csc) and node configurations
 
 ├── tsch-modifications/ # Custom TSCH scheduler and collision detection modules
