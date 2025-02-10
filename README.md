@@ -27,7 +27,11 @@ This repository hosts the implementation and simulation framework for our IEEE G
 
 ## Repository Structure
 
----
+├── simulations/ # Cooja simulation files (.csc) and node configurations
+├── tsch-modifications/ # Custom TSCH scheduler and collision detection modules
+├── scripts/ # Python/MATLAB scripts for data analysis and plotting
+├── results/ # Pre-computed results (PDR, latency, energy metrics)
+└── docs/ # Paper, presentation slides, and supplementary material
 
 ## Getting Started
 
@@ -41,10 +45,29 @@ This repository hosts the implementation and simulation framework for our IEEE G
    cd simulations/  
    # Example: 3 co-located networks with default parameters  
    make TARGET=cooja connect-router-cooja
-   @inproceedings{author2023tsch,  
+
+## Reproduce Results:
+
+- Use scripts/analyze_interference.py to generate PDR vs. network density plots.
+
+- Refer to docs/paper.pdf for experiment parameters and validation.
+
+## Citation
+**if this work aids your research, please cite:**
+@inproceedings{author2023tsch,  
   title={Towards Co-Located TSCH Networks: An Inter-Network Interference Perspective},  
   author={Your Name and Co-authors},  
   booktitle={Proc. IEEE Global Commun. Conf. (GLOBECOM)},  
   year={2023},  
   doi={10.1109/GLOBECOM.2023.XXXXXXX}  
 }  
+
+## Contributions Welcome
+**Open to collaborations on:**
+
+Extending the framework to support multi-PHY layer interactions (e.g., BLE/TSCH coexistence).
+
+Implementing machine learning-driven scheduling for dynamic interference mitigation.
+
+For questions, contact: saleem.raza@daad-alumni.de
+   
