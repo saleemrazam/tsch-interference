@@ -68,7 +68,7 @@ This repository hosts the implementation and simulation framework for our IEEE G
      organization={IEEE}}
 
 ## Contributions Welcome
-**Open to collaborations on:**
+**Open to collaborations on**
 
 Extending the framework to support multi-PHY layer interactions (e.g., BLE/TSCH coexistence).
 
