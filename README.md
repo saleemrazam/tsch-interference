@@ -57,10 +57,9 @@ This repository hosts the implementation and simulation framework for our IEEE G
 - Refer to docs/paper.pdf for experiment parameters and validation.
 
 ## Citation
-**if this work aids your research, please cite:**
- ```bash
-   /
-   @inproceedings{van2018towards,
+1. **if this work aids your research, please cite:** 
+   ```bash
+     @inproceedings{van2018towards,
      title={Towards co-located TSCH networks: An inter-network interference perspective},
      author={van Der Lee, Tim and Raza, Saleem and Exarchakos, George and Gunes, Mesut},
      booktitle={2018 IEEE Global Communications Conference (GLOBECOM)},
