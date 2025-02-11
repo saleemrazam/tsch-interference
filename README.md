@@ -66,7 +66,7 @@ This repository hosts the implementation and simulation framework for our IEEE G
   pages={1--6},
   year={2018},
   organization={IEEE}
-}  ```bash
+}
 
 ## Contributions Welcome
 **Open to collaborations on:**
