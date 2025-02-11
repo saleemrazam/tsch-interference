@@ -58,6 +58,7 @@ This repository hosts the implementation and simulation framework for our IEEE G
 
 ## Citation
 **if this work aids your research, please cite:**
+ ```bash
 @inproceedings{van2018towards,
   title={Towards co-located TSCH networks: An inter-network interference perspective},
   author={van Der Lee, Tim and Raza, Saleem and Exarchakos, George and Gunes, Mesut},
@@ -65,7 +66,7 @@ This repository hosts the implementation and simulation framework for our IEEE G
   pages={1--6},
   year={2018},
   organization={IEEE}
-}
+}  ```bash
 
 ## Contributions Welcome
 **Open to collaborations on:**
