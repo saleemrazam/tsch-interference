@@ -59,17 +59,16 @@ This repository hosts the implementation and simulation framework for our IEEE G
 ## Citation
 **if this work aids your research, please cite:**
  ```bash
-@inproceedings{van2018towards,
-  title={Towards co-located TSCH networks: An inter-network interference perspective},
-  author={van Der Lee, Tim and Raza, Saleem and Exarchakos, George and Gunes, Mesut},
-  booktitle={2018 IEEE Global Communications Conference (GLOBECOM)},
-  pages={1--6},
-  year={2018},
-  organization={IEEE}
-}
+   /
+   @inproceedings{van2018towards,
+     title={Towards co-located TSCH networks: An inter-network interference perspective},
+     author={van Der Lee, Tim and Raza, Saleem and Exarchakos, George and Gunes, Mesut},
+     booktitle={2018 IEEE Global Communications Conference (GLOBECOM)},
+     pages={1--6},
+     year={2018},
+     organization={IEEE}}
 
-
-**Contributions Welcome**
+## Contributions Welcome
 **Open to collaborations on:**
 
 Extending the framework to support multi-PHY layer interactions (e.g., BLE/TSCH coexistence).
